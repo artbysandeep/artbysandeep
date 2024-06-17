@@ -1,15 +1,8 @@
-# Portfolio Blog Starter
+# Art By Sandeep
 
-This is a porfolio site template complete with a blog. Includes:
+We are Providing Best Drawing and coloring pages ideas for beginners:
 
-- MDX and Markdown support
-- Optimized for SEO (sitemap, robots, JSON-LD schema)
-- RSS Feed
-- Dynamic OG images
-- Syntax highlighting
-- Tailwind v4
-- Vercel Speed Insights / Web Analytics
-- Geist font
+- I am Sandeep Sokhal, an artist who helps beginners to hone their art. Through personal support, my goal is to empower you on your artistic journey. Let’s unleash your creativity and enhance your skills together. Join me in exploring the world of art!
 
 ## Demo
 
